@@ -1,0 +1,38 @@
+name: Bug report
+description: Something does not work as it should.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version and platform
+      placeholder: e.g. 0.1.0 on Fedora 43
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      render: text
+  - type: checkboxes
+    id: ai
+    attributes:
+      label: AI involvement
+      description: Bug reports written or found with AI tools are welcome; just say so.
+      options:
+        - label: I used AI to find or write up this bug, and I have checked it by hand
