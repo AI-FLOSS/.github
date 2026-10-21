@@ -1,12 +1,16 @@
 # Contributing
 
-Thanks for helping. This guide applies to every AI-FLOSS repository that does not have its own.
+Thanks for helping. This guide applies to every X-Tech Laboratories repository that does not have
+its own.
 
 ## Before you start
 
 - For anything bigger than a small fix, open an issue first so we can agree on the approach.
 - Check whether the change fits as a plugin, setting or extension point rather than a fork of
   existing behaviour. We would rather make projects configurable than split them.
+- Prefer open formats and standard protocols, so the project keeps working with other tools.
+- Bringing over a feature from a competing project? Say where it comes from, and respect its
+  licence.
 - Read the repository's `README.md` and `AGENTS.md` for how to build and test it.
 
 ## AI-assisted contributions
@@ -16,7 +20,8 @@ and you say how AI was involved in the pull request.
 
 ## Pull requests
 
-1. Write or update tests for the behaviour you change, and make sure the full suite passes.
+1. Write or update tests for the behaviour you change, and make sure the full suite passes. CI runs
+   the same checks on every pull request, and a change merges only when they pass.
 2. Use [Conventional Commits](https://www.conventionalcommits.org/) for commit messages, for example
    `fix(parser): handle empty input`.
 3. Fill in the pull request template, including the AI involvement section.

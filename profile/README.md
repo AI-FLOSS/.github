@@ -1,44 +1,47 @@
 <p align="center">
-  <img src="https://ai-floss.github.io/favicon.svg" alt="AI-FLOSS logo" width="96" height="96">
+  <img src="https://raw.githubusercontent.com/x-tech-laboratories/.github/main/branding/logo/x-tech-laboratories.svg" alt="X-Tech Laboratories" width="480">
 </p>
 
-<h1 align="center">AI-FLOSS</h1>
-
-<p align="center"><strong>Free software, built with AI, kept healthy by people.</strong></p>
+<p align="center"><strong>Technology, used creatively, for the people who use it.</strong></p>
 
 <p align="center">
-  <a href="https://ai-floss.github.io">Website</a> ·
-  <a href="https://ai-floss.github.io/guidelines/">Guidelines</a> ·
-  <a href="https://ai-floss.github.io/awesome/">Awesome AI-FLOSS</a> ·
+  <a href="https://x-tech-laboratories.github.io">Website</a> ·
+  <a href="https://x-tech-laboratories.github.io/guidelines/">Guidelines</a> ·
+  <a href="https://x-tech-laboratories.github.io/projects/">Projects</a> ·
   <a href="https://matrix.to/#/#ai-floss:matrix.org">Matrix</a>
 </p>
 
-AI-FLOSS is a community for open source projects that welcome AI-assisted development, and for
-working out, in the open, how software should be built and maintained now that AI is part of the
-toolbox.
+X-Tech Laboratories is an open source community for technology used in creative and beneficial
+ways. We build software that people can shape to their own needs, that works with everything else
+they use, and that brings together the best of what open source already offers instead of splitting
+it further.
 
-## Why
+## What we stand for
 
-- **AI learned from open source.** That work deserves to benefit from what it made possible.
-- **Maintainers are stretched thin.** AI can take on triage, tests, documentation and upkeep.
-- **Too much AI software is built alone and thrown away.** A shared home means tools and apps
-  everyone can use and improve, not a thousand one-off copies.
-- **Disagreement doesn't have to mean a fork.** Extensible, pluggable, configurable and
-  interoperable software lets one project serve many needs.
+- **Extensible, configurable, interoperable.** Apps adapt to their users, through plugins, settings,
+  themes and open formats, so one project can reach the largest number of people.
+- **Consolidate, don't fragment.** We bring the best features of competing projects together under
+  one roof, and import their data so switching costs nothing.
+- **Automation over toil.** CI/CD and [test-driven development](https://x-tech-laboratories.github.io/guidelines/testing/)
+  carry the routine load, so maintainers spend their time on direction and design.
+- **AI-assisted development.** AI is welcome and used in the open: [disclosed](https://x-tech-laboratories.github.io/guidelines/disclosure/),
+  [reviewed](https://x-tech-laboratories.github.io/guidelines/review/), and guided by each
+  project's [`AGENTS.md`](https://x-tech-laboratories.github.io/guidelines/prompting/).
 
-## What we work on
+## Projects
 
-- [Prompting guidelines](https://ai-floss.github.io/guidelines/prompting/) that tell AI agents how a project works
-- [Clear disclosure](https://ai-floss.github.io/guidelines/disclosure/) of how AI was involved in a change
-- [AI-assisted review](https://ai-floss.github.io/guidelines/review/) alongside AI-assisted coding
-- [Test-driven development](https://ai-floss.github.io/guidelines/testing/) as the contract every change must meet
-- The [AI Readiness Score](https://ai-floss.github.io/guidelines/readiness/), a quick check of how ready a project is for all of the above
+- [Anthem](https://github.com/x-tech-laboratories/Anthem): a desktop music player that joins
+  gmusicbrowser's library engine to a re-layoutable, re-skinnable interface.
+- [ai-readiness](https://github.com/x-tech-laboratories/ai-readiness): scores how ready a repository
+  is for AI-assisted development.
 
 ## Get involved
 
 - Talk with us on Matrix: [#ai-floss](https://matrix.to/#/#ai-floss:matrix.org) and
   [#ai-floss-general](https://matrix.to/#/#ai-floss-general:matrix.org)
-- Suggest a project for [Awesome AI-FLOSS](https://ai-floss.github.io/awesome/)
-- Built something with AI that others could use? Bring it here, where more people can maintain it.
+- Read the [contributing guide](https://github.com/x-tech-laboratories/.github/blob/main/CONTRIBUTING.md)
+- Maintain a project that competes with one of ours, or that could live here? Talk to us about
+  bringing it under one roof.
 
-AI-assisted contributions are welcome everywhere in this organisation. Just say how AI was involved.
+Contributions made with AI tools are welcome everywhere in this organisation. Just say how AI was
+involved.
