@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   id="svg3560"
+   version="1.1"
+   viewBox="0 0 48 48"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3562">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4682"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00acff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata3565">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,-720)">
+    <path
+       style="fill:#00acff;fill-opacity:1;stroke:#00acff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16.236328 6.8457031 C 15.369715 6.8274031 14.462915 6.9265894 14.220703 7.9121094 C 12.599257 10.498999 10.996987 13.105892 9.4335938 15.732422 C 7.8702002 18.358942 6.347113 21.003739 4.8828125 23.667969 C 5.9067922 26.515699 7.6706522 29.152611 9.0976562 31.863281 C 10.888027 34.868021 12.639254 37.974674 14.619141 40.839844 C 16.272568 41.540904 18.108101 40.812179 19.84375 41.074219 C 24.247481 41.039919 28.652273 41.009536 33.054688 40.972656 C 34.752052 38.876536 35.926854 36.318939 37.363281 34.011719 C 39.36219 30.801029 41.200954 27.498764 43.117188 24.240234 C 42.140569 21.747214 40.449287 19.593561 39.220703 17.181641 C 37.267716 13.768941 35.400608 10.319729 33.371094 6.9492188 C 27.677707 6.7319788 21.924541 6.9776531 16.236328 6.8457031 z M 14.400391 10.75 L 37.771484 24.146484 L 14.228516 37.25 L 14.400391 10.75 z "
+       transform="translate(0,720)"
+       id="path5042-5-1-2" />
+  </g>
+  <g
+     id="layer2"
+     transform="translate(0,-720)" />
+</svg>
