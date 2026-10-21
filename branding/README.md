@@ -14,6 +14,9 @@ Logos, icons and design rules for X-Tech Laboratories and its projects.
 Each SVG has a PNG next to it. The lettering in the logos is already converted to outlines, so they
 look the same without the font installed.
 
+The X is cut out of the hexagon, so the background shows through it. On a dark background, put a
+white shape behind the X, or use the inverted icon.
+
 ## Colours
 
 | Name       | Hex       | Use                                  |
