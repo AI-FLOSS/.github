@@ -1,6 +1,6 @@
 # AI policy
 
-AI-FLOSS projects welcome contributions made with AI tools. This policy applies to every repository
+X-Tech Laboratories projects welcome contributions made with AI tools. This policy applies to every repository
 in the organisation unless a repository has its own `AI_POLICY.md`.
 
 ## You are accountable
@@ -15,7 +15,7 @@ Whoever opens a pull request owns it, however it was written. Before you submit:
 
 Say how AI was involved, using the checkbox in the pull request template. Disclosure is expected and
 is never held against a contribution. For individual commits, an `Assisted-by:` trailer naming the
-tool is welcome; see the [disclosure guideline](https://ai-floss.github.io/guidelines/disclosure/).
+tool is welcome; see the [disclosure guideline](https://x-tech-laboratories.github.io/guidelines/disclosure/).
 
 ## Respect people's time
 

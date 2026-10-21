@@ -8,7 +8,7 @@
 
 ## AI involvement
 
-<!-- See https://github.com/AI-FLOSS/.github/blob/main/AI_POLICY.md -->
+<!-- See https://github.com/x-tech-laboratories/.github/blob/main/AI_POLICY.md -->
 
 - [ ] None
 - [ ] AI helped with parts of this change (say which)
