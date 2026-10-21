@@ -34,8 +34,6 @@ it further.
   gmusicbrowser's library engine to a re-layoutable, re-skinnable interface.
 - [ai-readiness](https://github.com/x-tech-laboratories/ai-readiness): scores how ready a repository
   is for AI-assisted development.
-- [web-greeter](https://github.com/x-tech-laboratories/web-greeter): a modern, themeable greeter for
-  LightDM.
 
 ## Get involved
 
