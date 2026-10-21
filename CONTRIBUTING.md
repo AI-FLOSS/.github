@@ -35,4 +35,4 @@ Everyone taking part follows the [Code of Conduct](CODE_OF_CONDUCT.md).
 ## Talk to us
 
 Questions are welcome on Matrix in
-[#ai-floss-general](https://matrix.to/#/#ai-floss-general:matrix.org).
+[#x-tech-laboratories-general](https://matrix.to/#/#x-tech-laboratories-general:matrix.org).

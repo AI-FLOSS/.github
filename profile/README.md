@@ -8,7 +8,7 @@
   <a href="https://x-tech-laboratories.github.io">Website</a> ·
   <a href="https://x-tech-laboratories.github.io/guidelines/">Guidelines</a> ·
   <a href="https://x-tech-laboratories.github.io/projects/">Projects</a> ·
-  <a href="https://matrix.to/#/#ai-floss:matrix.org">Matrix</a>
+  <a href="https://matrix.to/#/#x-tech-laboratories:matrix.org">Matrix</a>
 </p>
 
 X-Tech Laboratories is an open source community for technology used in creative and beneficial
@@ -37,8 +37,8 @@ it further.
 
 ## Get involved
 
-- Talk with us on Matrix: [#ai-floss](https://matrix.to/#/#ai-floss:matrix.org) and
-  [#ai-floss-general](https://matrix.to/#/#ai-floss-general:matrix.org)
+- Talk with us on Matrix: [#x-tech-laboratories](https://matrix.to/#/#x-tech-laboratories:matrix.org) and
+  [#x-tech-laboratories-general](https://matrix.to/#/#x-tech-laboratories-general:matrix.org)
 - Read the [contributing guide](https://github.com/x-tech-laboratories/.github/blob/main/CONTRIBUTING.md)
 - Maintain a project that competes with one of ours, or that could live here? Talk to us about
   bringing it under one roof.
