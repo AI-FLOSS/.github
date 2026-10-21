@@ -30,7 +30,7 @@ it further.
 
 ## Projects
 
-- [Anthem](https://github.com/x-tech-laboratories/Anthem): a desktop music player that joins
+- [X-Music](https://github.com/x-tech-laboratories/X-Music): a desktop music player that joins
   gmusicbrowser's library engine to a re-layoutable, re-skinnable interface.
 - [ai-readiness](https://github.com/x-tech-laboratories/ai-readiness): scores how ready a repository
   is for AI-assisted development.
